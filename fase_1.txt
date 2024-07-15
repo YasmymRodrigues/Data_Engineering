@@ -2,64 +2,36 @@
 100	2210000	Thomas Anderson	(Neo)	Informática	20	True	20.0
 201	2290110	Anakin Skywalker	(Lord Vader)	Psicologia	20	True	20.0
 804	2210030	Sininho	(Terra do Nunca)	Cintilar	-20	True	-20.0
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-79	20201046	Miguel	Silva	Psicologia	-1.0	True	17.0
-85	2019514	Diana	Sampaio	Informática	-2.0	True	12.0
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-NULL	NULL	NULL	NULL	NULL		NULL	NULL
-25	2003821	Nuno	Laranjeira	Psicologia	16.0	False	
-NULL	NULL	NULL	NULL	NULL		NULL	
-27	200739	Alice	Pires	Psicologia	17.0	False	
-NULL	NULL	NULL	NULL	NULL		NULL	
-30	2003485	Alice	Pires	Psicologia	13.0	False	
-NULL	NULL	NULL	NULL	NULL		NULL	
-33	20211052	Raquel	Castelo	Comunicação	16.0	False	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
-48	202245	Rui	Pires	Informática	10.0	True	-2.0
-NULL	NULL	NULL	NULL	NULL		NULL	
-52	2007469	Nuno	da Silva	Psicologia	14.0	True	-1.0
-55	20071679	Jorge	Sampaio	Comunicação	10.0	True	-1.0
-57	20211156	Ana	Morais	Comunicação	20.0	True	
-58	20191494	Joana	Castelo	Psicologia	15.0	False	
-62	20211664	Beatriz	Capicua	Informática	16.0	False	
-63	20211328	Ana	Sampaio	Informática	12.0	True	-1.0
-66	2022848	Carla	Pereira	Psicologia	17.0	False	
-68	2003504	Beatriz	Laranjeira	Comunicação	12.0	False	
-73	2020537	Maria João	Sampaio	Comunicação	12.0	False	
-75	20201546	Anne	Sampaio	Informática	15.0	True	
-78	2007691	Miguel	Silva	Informática	14.0	True	-2.0
-80	20221456	Lucas	Silva	Informática	18.0	True	-1.0
-97	20031072	Nuno	Pires	Comunicação	14.0	False	
-101	200722	Catarina	da Silva	Psicologia	13.0	False	
-103	20191750	Anne	Cintra	Comunicação	12.0	False	
-112	20221087	Rodrigo	Morais	Informática	16.0	False	
-113	2021847	Patrícia	Pires	Psicologia	10.0	False	
-127	2007103	Catarina	Castelo	Informática	14.0	False	
-NULL	NULL	NULL	NULL	NULL		NULL	
-NULL	NULL	NULL	NULL	NULL		NULL	
+34	2019990	Leonardo	Capicua	Comunicação	22	True	12.0
+42	2021652	Lucas	Machado	Informática	21	True	17.0
+56	20201386	Pedro	Pires	Psicologia	22	True	18.0
+79	20201046	Miguel	Silva	Psicologia	-1	True	17.0
+85	2019514	Diana	Sampaio	Informática	-2	True	12.0
+804	2210030	Sininho	(Terra do Nunca)	NULL	-20	True	-20.0
+25	2003821	Nuno	Laranjeira	Psicologia	16	False	
+27	200739	Alice	Pires	Psicologia	17	False	
+30	2003485	Alice	Pires	Psicologia	13	False	
+33	20211052	Raquel	Castelo	Comunicação	16	False	
+34	2019990	Leonardo	Capicua	Comunicação	22	True	12.0
+42	2021652	Lucas	Machado	Informática	21	True	17.0
+48	202245	Rui	Pires	Informática	10	True	-2.0
+52	2007469	Nuno	da Silva	Psicologia	14	True	-1.0
+55	20071679	Jorge	Sampaio	Comunicação	10	True	-1.0
+56	20201386	Pedro	Pires	Psicologia	22	True	18.0
+57	20211156	Ana	Morais	Comunicação	20	True	
+58	20191494	Joana	Castelo	Psicologia	15	False	
+62	20211664	Beatriz	Capicua	Informática	16	False	
+63	20211328	Ana	Sampaio	Informática	12	True	-1.0
+66	2022848	Carla	Pereira	Psicologia	17	False	
+68	2003504	Beatriz	Laranjeira	Comunicação	12	False	
+73	2020537	Maria João	Sampaio	Comunicação	12	False	
+75	20201546	Anne	Sampaio	Informática	15	True	
+78	2007691	Miguel	Silva	Informática	14	True	-2.0
+80	20221456	Lucas	Silva	Informática	18	True	-1.0
+97	20031072	Nuno	Pires	Comunicação	14	False	
+101	200722	Catarina	da Silva	Psicologia	13	False	
+103	20191750	Anne	Cintra	Comunicação	12	False	
+112	20221087	Rodrigo	Morais	Informática	16	False	
+113	2021847	Patrícia	Pires	Psicologia	10	False	
+127	2007103	Catarina	Castelo	Informática	14	False	
+804	2210030	Sininho	(Terra do Nunca)	NULL	-20	True	-20.0
